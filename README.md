@@ -1,7 +1,7 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fcode&psig=AOvVaw3fXNWLdb6JnKVVqUTE1Me5&ust=1681068773933000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOi5zKqDm_4CFQAAAAAdAAAAABBs)]
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Sushean Sharma</h1>
 <h3 align="center">A passionate developer from India</h3>
-img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F567523990538356835%2F&psig=AOvVaw3fXNWLdb6JnKVVqUTE1Me5&ust=1681068773933000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOi5zKqDm_4CFQAAAAAdAAAAABAE">
+img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sushean&label=Profile%20views&color=0e75b6&style=flat" alt="sushean" /> </p>
 
