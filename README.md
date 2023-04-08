@@ -22,10 +22,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/technking" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="technking" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sushean sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sushean sharma" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sushean-sharma-17824b262/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sushean sharma" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100086645644938" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sushean sharma" height="30" width="40" /></a>
 <a href="https://instagram.com/sushean_s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sushean_s" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/sushean sharma01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sushean sharma01" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCTDMM2iEy3nS7ECPzxA4r3g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sushean sharma01" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/susheansharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="susheansharma" height="30" width="40" /></a>
 </p>
 
