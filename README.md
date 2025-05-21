@@ -7,7 +7,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sushean" alt="sushean" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/technking" target="blank"><img src="https://img.shields.io/twitter/follow/technking?logo=twitter&style=for-the-badge" alt="technking" /></a> </p>
 
 - 🔭 I’m currently working on **GUI Calulator For Windows**
 
