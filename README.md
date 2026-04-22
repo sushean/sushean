@@ -97,7 +97,7 @@ input → breakdown → system → output → iterate
 
 ## 🐍 ACTIVITY STREAM
 
-![snake gif](https://github.com/sushean/sushean/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://raw.githubusercontent.com/sushean/sushean/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
