@@ -1,108 +1,114 @@
-<h1 align="center">Sushean Sharma</h1>
+<h1 align="center">⚡ Sushean Sharma</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=Building+Systems...;Thinking+in+Architecture;Automating+Everything;Designing+with+Intent;Always+Iterating" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=750&lines=Booting+System...;Loading+Intelligence...;Designing+Scalable+Systems...;Automation+Mode+Activated..." />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sushean&label=profile%20views&color=0e75b6&style=flat" />
+  <a href="#-init">/init</a> •
+  <a href="#-system-core">/core</a> •
+  <a href="#-tech-dna">/stack</a> •
+  <a href="#-live-signals">/stats</a> •
+  <a href="#-current-state">/state</a> •
+  <a href="#-philosophy">/philosophy</a>
+</p>
+
+<p align="center">
+  <a href="mailto:sushean.11@gmail.com">
+    <img src="https://img.shields.io/badge/email-contact-blue?style=for-the-badge&logo=gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/sushean-sharma-17824b262/">
+    <img src="https://img.shields.io/badge/linkedin-connect-0A66C2?style=for-the-badge&logo=linkedin">
+  </a>
 </p>
 
 ---
 
-```bash
-> booting sushean.dev ...
+## ⚡ /init
 
-✔ identity: system_builder
-✔ mindset: system > syntax
-✔ focus: intelligence + scale
-✔ status: always iterating
+```bash id="z6shlm"
+> boot sequence initiated...
+
+loading identity...
+loading system architecture...
+loading automation modules...
+
+✔ system ready
 ```
 
 ---
 
-## 🧠 /core.identity
+## 🧠 SYSTEM CORE
 
-```yaml
-role: builder
+```yaml id="qg84p1"
+identity: system_builder
 
-approach:
-  - system_design
-  - automation_first
-  - problem_driven
+mode:
+  - problem_first
+  - automation_driven
+  - scale_oriented
 
 principles:
   - simplicity > complexity
-  - scale > shortcuts
+  - systems > features
   - clarity > noise
 
-thinking:
-  - "how does this scale?"
-  - "can this be automated?"
-  - "what's the cleanest abstraction?"
+loop:
+  observe → model → build → refine → repeat
 ```
 
 ---
 
-## ⚙️ /stack
+## ⚙️ TECH DNA
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,js,python,react,nodejs,tailwind,git,github" />
+  <img src="https://skillicons.dev/icons?i=cpp,cs,js,python,react,nodejs,tailwind,git,github&perline=5" />
 </p>
 
 ---
 
-## 📡 /live.stats
+## 📊 LIVE SIGNALS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sushean&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sushean&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sushean&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sushean&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🧩 /thinking.process
+## 🧠 CURRENT STATE
 
-```text
-observe → break → model → build → refine → repeat
-```
-
----
-
-## 🧠 /current.state
-
-```diff
+```diff id="h7g5lj"
 + exploring intelligent systems
-+ building scalable architectures
++ designing scalable architectures
 + optimizing workflows
-! avoiding unnecessary complexity
+! rejecting unnecessary complexity
 ```
 
 ---
 
-## 🛰️ /signal
+## 🧩 EXECUTION ENGINE
 
-<p align="center">
-  <a href="mailto:your@email.com">email</a> •
-  <a href="https://linkedin.com/in/your-link">linkedin</a>
-</p>
-
----
-
-## 🐍 /activity
-
-![snake gif](https://github.com/sushean/sushean/blob/output/github-contribution-grid-snake.svg)
+```text id="5bbdql"
+input → breakdown → system → output → iterate
+```
 
 ---
 
-## 🧠 /philosophy
+## 🐍 ACTIVITY STREAM
+
+![snake gif](https://github.com/sushean/sushean/blob/output/github-contribution-grid-snake-dark.svg)
+
+---
+
+## 🧠 PHILOSOPHY
 
 > Good code works.
-> Great systems last.
+> Great systems evolve.
+> Exceptional systems scale silently.
 
 ---
 
 <p align="center">
-  <i>designed like a system, not a profile</i>
+  <i>this is not a profile. it's a system interface.</i>
 </p>
-
