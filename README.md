@@ -1,41 +1,108 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Sushean Sharma</h1>
-<h3 align="center">A passionate developer from India</h3>
-<img align="center" alt="Coding" width="100" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<h1 align="center">Sushean Sharma</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sushean&label=Profile%20views&color=0e75b6&style=flat" alt="sushean" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sushean" alt="sushean" /></a> </p>
-
-
-- 🔭 I’m currently working on **GUI Calulator For Windows**
-
-- 🌱 I’m currently learning **C#,DataBase And HTML**
-
-- 💬 Ask me about **C language and Gaming**
-
-- 📫 How to reach me **sushean45@gmail.com**
-
-- ⚡ Fun fact **I Think I am Robot.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/technking" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="technking" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/sushean-sharma-17824b262/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sushean sharma" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100086645644938" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sushean sharma" height="30" width="40" /></a>
-<a href="https://instagram.com/sushean_s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sushean_s" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCTDMM2iEy3nS7ECPzxA4r3g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sushean sharma01" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/susheansharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="susheansharma" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=Building+Systems...;Thinking+in+Architecture;Automating+Everything;Designing+with+Intent;Always+Iterating" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sushean&label=profile%20views&color=0e75b6&style=flat" />
+</p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/susheansharma01"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="susheansharma01" /></a></p><br><br>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sushean&show_icons=true&locale=en&layout=compact" alt="sushean" /></p>
+```bash
+> booting sushean.dev ...
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sushean&show_icons=true&locale=en" alt="sushean" /></p>
+✔ identity: system_builder
+✔ mindset: system > syntax
+✔ focus: intelligence + scale
+✔ status: always iterating
+```
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sushean&" alt="sushean" /></p>
+---
+
+## 🧠 /core.identity
+
+```yaml
+role: builder
+
+approach:
+  - system_design
+  - automation_first
+  - problem_driven
+
+principles:
+  - simplicity > complexity
+  - scale > shortcuts
+  - clarity > noise
+
+thinking:
+  - "how does this scale?"
+  - "can this be automated?"
+  - "what's the cleanest abstraction?"
+```
+
+---
+
+## ⚙️ /stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,cs,js,python,react,nodejs,tailwind,git,github" />
+</p>
+
+---
+
+## 📡 /live.stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sushean&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sushean&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🧩 /thinking.process
+
+```text
+observe → break → model → build → refine → repeat
+```
+
+---
+
+## 🧠 /current.state
+
+```diff
++ exploring intelligent systems
++ building scalable architectures
++ optimizing workflows
+! avoiding unnecessary complexity
+```
+
+---
+
+## 🛰️ /signal
+
+<p align="center">
+  <a href="mailto:your@email.com">email</a> •
+  <a href="https://linkedin.com/in/your-link">linkedin</a>
+</p>
+
+---
+
+## 🐍 /activity
+
+![snake gif](https://github.com/sushean/sushean/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 🧠 /philosophy
+
+> Good code works.
+> Great systems last.
+
+---
+
+<p align="center">
+  <i>designed like a system, not a profile</i>
+</p>
+
